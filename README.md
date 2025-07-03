@@ -82,4 +82,4 @@ pip install -r requirements.txt
 MIT
 
 ---
-**Author:** Your Name
+**Author:** Zain Ul Abaiden
