@@ -1,4 +1,4 @@
- vongit# Retrieval-Augmented Generation (RAG) System
+# Retrieval-Augmented Generation (RAG) System
 
 A production-ready RAG system for multi-format document Q&A using FastAPI, Streamlit, FAISS, open-source embeddings, and Groq LLM (ChatGroq).
 
