@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+python-multipart
+unstructured[pytesseract]
+sentence-transformers
+faiss-cpu
+langchain
+openpyxl
+python-docx
+pypdf2
+pytesseract
+Pillow
+pdf2image
+pdfminer.six
+pi-heif
+unstructured-inference
+python-dotenv
